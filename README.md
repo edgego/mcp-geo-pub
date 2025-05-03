@@ -1,5 +1,7 @@
 # MCP with Pages Functions ：Geo Location Demo 
 
+[![smithery badge](https://smithery.ai/badge/@edgego/mcp-geo-pub)](https://smithery.ai/server/@edgego/mcp-geo-pub)
+
 This project demonstrates how to use EdgeOne Pages Functions to retrieve user geolocation information and integrate it with large language models through MCP (Model Context Protocol).
 
 ## Demo
